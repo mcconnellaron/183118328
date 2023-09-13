@@ -21,4 +21,5 @@ test:
 	cargo test
 
 clean:
-	rm -f tests/*.a tests/*.s tests/*.run tests/*.o
+	rm -f tests/*.a tests/*.s tests/*.run tests/*.o 
+	rm -r tests/*.dSYM
