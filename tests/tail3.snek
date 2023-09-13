@@ -1,0 +1,17 @@
+(fun (fun1 n)
+    (fun2 n 0)
+)
+(fun (fun2 x y)
+    (fun3 x y 0)
+)
+(fun (fun3 a b c)
+    (if (< a 0)
+        false
+        (if (= a 0)
+            true
+            (fun1 (sub1 a))
+        )
+    )
+)
+
+(fun1 1000000)

@@ -1,0 +1,6 @@
+(fun (sum acc n)
+  (if (< n 1)
+      acc
+      (sum (+ acc n) (sub1 n))))
+
+(sum 0 1000000)

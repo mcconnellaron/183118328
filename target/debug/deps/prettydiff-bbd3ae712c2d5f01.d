@@ -1,0 +1,11 @@
+/Users/amcconnell/Downloads/183118328/target/debug/deps/prettydiff-bbd3ae712c2d5f01.rmeta: /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/lib.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/basic.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/lcs.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/text.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/format_table.rs
+
+/Users/amcconnell/Downloads/183118328/target/debug/deps/libprettydiff-bbd3ae712c2d5f01.rlib: /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/lib.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/basic.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/lcs.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/text.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/format_table.rs
+
+/Users/amcconnell/Downloads/183118328/target/debug/deps/prettydiff-bbd3ae712c2d5f01.d: /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/lib.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/basic.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/lcs.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/text.rs /Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/format_table.rs
+
+/Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/lib.rs:
+/Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/basic.rs:
+/Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/lcs.rs:
+/Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/text.rs:
+/Users/amcconnell/.cargo/registry/src/github.com-1ecc6299db9ec823/prettydiff-0.6.4/src/format_table.rs:
